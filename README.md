@@ -1,7 +1,7 @@
 FUCK YEAH NOUNS
 ===============
 
-A "Fuck Yeah Nouns" Google Chrome Extention
+A "Fuck Yeah Nouns" Google Chrome Extension
 
 Finds a nice picture for the given word!
 
